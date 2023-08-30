@@ -1,0 +1,11 @@
+pandas       # Data manipulation and analysis library
+numpy        # Mathematical operations on arrays and matrices
+matplotlib    # Data visualization library
+seaborn    # Statistical data visualization library
+scikit-learn # Machine learning library
+nltk          # Natural language processing library
+tensorflow   # Deep learning library
+keras       # High-level neural networks API
+statsmodels  # Statistical modeling library
+xgboost      # Gradient boosting library
+lightgbm      # Gradient boosting library
